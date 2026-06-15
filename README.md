@@ -128,8 +128,7 @@ npm run dev
 Place your project report inside a `docs/` folder:
 
 ```
-docs/
-└── StyleSense_Project_Report.pdf
+StyleSense.pdf
 ```
 
 You can then access it directly from the repository.
